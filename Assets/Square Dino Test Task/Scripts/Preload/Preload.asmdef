@@ -1,0 +1,19 @@
+{
+    "name": "Preload",
+    "rootNamespace": "",
+    "references": [
+        "Zenject",
+        "Input",
+        "SceneManagement",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

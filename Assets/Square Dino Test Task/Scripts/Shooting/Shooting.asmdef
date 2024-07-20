@@ -1,0 +1,20 @@
+{
+    "name": "Shooting",
+    "rootNamespace": "",
+    "references": [
+        "UniTask",
+        "Pooling",
+        "Utils",
+        "Zenject",
+        "Health"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

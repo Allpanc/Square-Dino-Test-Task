@@ -1,0 +1,25 @@
+{
+    "name": "Game",
+    "rootNamespace": "",
+    "references": [
+        "Way",
+        "Zenject",
+        "Input",
+        "UniTask",
+        "SceneManagement",
+        "Npc",
+        "Player",
+        "Camera",
+        "Shooting",
+        "UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

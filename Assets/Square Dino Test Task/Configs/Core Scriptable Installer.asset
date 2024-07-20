@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5956259e28664b7493480f35d42d1624, type: 3}
+  m_Name: Core Scriptable Installer
+  m_EditorClassIdentifier: 
+  playerConfig: {fileID: 11400000, guid: 45feb303b763d834cb117a92299b1f8e, type: 2}
+  npcConfig: {fileID: 11400000, guid: a0ce026bb8e086641a059d1298c355d5, type: 2}
+  shooterConfig: {fileID: 11400000, guid: 23cdd7c5d9cdc1541833b638c37e5104, type: 2}
+  projectileConfig: {fileID: 11400000, guid: 47fd312c490f96242b7f9cfe6c6f0a58, type: 2}
+  projectileSpawnerFactoryConfig: {fileID: 11400000, guid: 208d0072b498efa48a56356926e3d42b, type: 2}
+  menuPrefabsCollection: {fileID: 11400000, guid: a4b9945e9431e704d825986f28018857, type: 2}
